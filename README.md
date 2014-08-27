@@ -1,6 +1,6 @@
 The Happiness Manifesto-The Beginning of Happiness Driven Development
 
-You can view the original blog post here:
+You can view the original blog post here: http://blog.sefindustries.com/the-happiness-manifesto/
 
 Herein lies the values we, as Happiness Driven Developers (HDD), hold to be true. Because who doesn't want to be happy?
 
