@@ -6,14 +6,10 @@ Herein lies the values we, as Happiness Driven Developers (HDD), hold to be true
 
 *As a happiness driven developer...*
 
-    - My language must be optimized for me, not the computer
-    - My development process must be agile
-    - My frameworks and libraries must be open source whenever possible
-    - My codebase must be tested
-    - I value quality, maintainable code
-    - I value curiosity and exploration
-    - I value openness and sharing in my community
-    - I value an environment conducive to all levels of experience
-    - I value software development as a craft
-    - I value respect and tolerance to all in my community
-    - I welcome and respect new ideas and new ways of solving problems
+    - We value readable, maintainable code over runtime performance.
+    - We value open-source infrastructure and tools over tools controlled by a single organization.
+    - We value curiosity and exploration over adherance to standards.
+    - We value openness, sharing, and collaboration over credentials and barriers.
+    - We value an environment conducive to all levels of experience.
+    - We value software development as a craft, not just a profession.
+    - We value respect and tolerance to all, over pure meritocracy
