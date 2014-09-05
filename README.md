@@ -11,7 +11,7 @@ Herein lies the values we, as Happiness Driven Developers (HDD), hold to be true
     - My frameworks and libraries must be open source whenever possible
     - My codebase must be tested
     - I value quality, maintainable code
-    - I value curiosity and exploration
+    - I value maintainable code, emphasizing clarity over cleverness
     - I value openness and sharing in my community
     - I value an environment conducive to all levels of experience
     - I value software development as a craft
