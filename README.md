@@ -17,3 +17,4 @@ Herein lies the values we, as Happiness Driven Developers (HDD), hold to be true
     - I value software development as a craft
     - I value respect, understanding, and tolerance towards all in my community
     - I welcome and respect new ideas and new ways of solving problems
+    - The learning process is seen as a pleasure, not a burden
