@@ -15,4 +15,4 @@ Herein lies the values we, as Happiness Driven Developers (HDD), hold to be true
     - We value openness, sharing, and collaboration over credentials and barriers
     - We value an environment conducive to all levels of experience, over exclusivity and elitism
     - We value respect, understanding, and tolerance towards all in my community, over pure meritocracy
-    - I welcome and respect new ideas and new ways of solving problems
+    - We value and welcome new ideas and new ways of solving problems over "how we've always done things"
