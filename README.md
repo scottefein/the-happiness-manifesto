@@ -7,7 +7,7 @@ Herein lies the values we, as Happiness Driven Developers (HDD), hold to be true
 *As a happiness driven developer...*
 
     - We value languages that are optimized for developers over the computer
-    - My development process must be agile
+    - We value agile development over waterfall development
     - My frameworks and libraries must be open source whenever possible
     - My codebase must be tested
     - I value quality, maintainable code
