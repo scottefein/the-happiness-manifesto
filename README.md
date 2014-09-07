@@ -14,6 +14,5 @@ Herein lies the values we, as Happiness Driven Developers (HDD), hold to be true
     - We value maintainable code, emphasizing clarity over cleverness
     - We value openness, sharing, and collaboration over credentials and barriers
     - We value an environment conducive to all levels of experience, over exclusivity and elitism
-    - I value software development as a craft
     - I value respect, understanding, and tolerance towards all in my community
     - I welcome and respect new ideas and new ways of solving problems
