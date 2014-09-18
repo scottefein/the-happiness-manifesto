@@ -18,4 +18,4 @@ Herein lies the values we, as Happiness Driven Developers (HDD), hold to be true
     - We value and welcome new ideas and new ways of solving problems over "how we've always done things"
     
 
-Update- Announcing Happiness Conf: blog.sefindustries.com/read-if-you-are-a-developer-who-likes-being-happy/
+Update- Announcing Happiness Conf: http://blog.sefindustries.com/read-if-you-are-a-developer-who-likes-being-happy/
