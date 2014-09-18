@@ -10,7 +10,7 @@ Herein lies the values we, as Happiness Driven Developers (HDD), hold to be true
     - We value agile development over waterfall development
     - We value open-source frameworks and tools over tools controlled by a single organization
     - We value strong test coverage for our code for both maintainability and documentation over untested codebases
-    - We value curiosity and exploration over adherance to standard
+    - We value curiosity and exploration over adherence to standard
     - We value maintainable code, emphasizing clarity over cleverness
     - We value openness, sharing, and collaboration over credentials and barriers
     - We value an environment conducive to all levels of experience, over exclusivity and elitism
