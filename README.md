@@ -16,3 +16,6 @@ Herein lies the values we, as Happiness Driven Developers (HDD), hold to be true
     - We value an environment conducive to all levels of experience, over exclusivity and elitism
     - We value respect, understanding, and tolerance towards all in my community, over pure meritocracy
     - We value and welcome new ideas and new ways of solving problems over "how we've always done things"
+    
+
+Update- Announcing Happiness Conf: blog.sefindustries.com/read-if-you-are-a-developer-who-likes-being-happy/
