@@ -1,10 +1,7 @@
 # The Happiness Manifesto
-## The Beginning of Happiness Driven Development
+### Happiness Driven Development
 
-Herein lies the values we, as Happiness Driven Developers (HDD), hold to be true.
-Because who doesn't want to be happy?
-
-## As a happiness driven developer…
+*As a happiness driven developer…*
 
 - I value languages that are optimized for developers over the computer
 - I value agile development over waterfall development
@@ -20,4 +17,5 @@ Because who doesn't want to be happy?
 [Original blog post](http://blog.sefindustries.com/the-happiness-manifesto/).
 
 **Update**: [Happiness Conf](http://blog.sefindustries.com/read-if-you-are-a-developer-who-likes-being-happy).
+
 **Update**: [Happiness Conf cancelled](http://www.happinessconf.com/an-unfortunate-end-to-happinessconf/).
